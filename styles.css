@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.div2{
+    background-color: aquamarine;
+    background-blend-mode:url("download.jpg");
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100px;
+    border-radius: 50%;
+
+}
